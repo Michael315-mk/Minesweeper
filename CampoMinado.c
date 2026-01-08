@@ -191,7 +191,7 @@ void play(){
 
 int main (){
     int aux;
-    printf("\n\n\t\tMade by Owlbertoh\n\n");
+    printf("\n\n\t\tMade by Michael Patrick\n\n");
     do{
     perdeu = 0;
     iniciar();
